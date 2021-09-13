@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on some start-up projects.
 - 📫 How to reach me via mail - tomaszcegdev(at)gmail.com
 
-Check out my tech blog - https://bedev.pl
+Check out:
+ - my tech blog - https://bedev.pl
+ - my LinkedIn profile - https://www.linkedin.com/in/tomasz-ceglarz/
 
 <!---
 bedev-pl/bedev-pl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
